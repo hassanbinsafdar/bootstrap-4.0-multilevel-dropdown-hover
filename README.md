@@ -6,7 +6,7 @@ Bootstrap 4.0 Beta Multilevel Dropdown On Hover
 
 Bootstrap based responsive mulltilevel dropdown navigation menu with fascinating animations
 
-This plugin is officialy developed by @kybarg I just edited it and make compatible for bootstrap 4.0 Beta version so popper.js will not disturn you anymore.
+This plugin is officialy developed by @kybarg I just edited it and make compatible for bootstrap 4.0 Beta version so popper.js will not disturb you anymore.
 
 For official bootstrap 3 plugin visit following.
 http://kybarg.github.io/bootstrap-dropdown-hover/demo.html
